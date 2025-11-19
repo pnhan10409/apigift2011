@@ -1,1 +1,21 @@
-{"success":true,"data":{"id":"2011","letterTitle":"Gửi cô An – nhân ngày 20/11 🎉💕","letterContent":["Kính gửi cô An,],"letterSignature":" ❤","teacherPhoto1":"https://i.postimg.cc/NFh0CVm5/z7241752224573-762078e35ce8ec3cd9d4097332bd62bc.jpg","teacherPhoto2":"https://i.postimg.cc/gkFD32Xm/z7138229119458-feb511b1864959ef5664d2db2a5e349e.jpg","musicType":"Sample","musicPath":"assets/musics/nguoigieomamxanh.mp3","customMusic":null,"createdAt":"2025-11-16T14:22:40.563Z","updatedAt":"2025-11-16T14:22:40.563Z"}}
+{
+  "success": true,
+  "data": {
+    "id": "2011",
+    "letterTitle": "Gửi thầy cô An – nhân ngày 20/11 🎉💕",
+    "letterContent": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "letterSignature": "❤",
+    "teacherPhoto1": "https://i.postimg.cc/NFh0CVm5/z7241752224573-762078e35ce8ec3cd9d4097332bd62bc.jpg",
+    "teacherPhoto2": "https://i.postimg.cc/gkFD32Xm/z7138229119458-feb511b1864959ef5664d2db2a5e349e.jpg",
+    "musicType": "Sample",
+    "musicPath": "assets/musics/nguoigieomamxanh.mp3",
+    "customMusic": null,
+    "createdAt": "2025-11-16T14:22:40.563Z",
+    "updatedAt": "2025-11-16T14:22:40.563Z"
+  }
+}
